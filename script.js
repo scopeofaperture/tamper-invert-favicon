@@ -3,6 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      2024-08-24
 // @description  Inverts dark favicons and SVGs on websites
+// @downloadURL  https://github.com/scopeofaperture/tamper-invert-favicon/raw/main/script.js
+// @updateURL    https://github.com/scopeofaperture/tamper-invert-favicon/raw/main/script.js
 // @author       You
 // @match        *://*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
